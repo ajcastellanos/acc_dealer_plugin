@@ -1,0 +1,13 @@
+/vendor
+composer.lock
+/uploads
+/.idea
+/languages
+webpack.config.js
+tsconfig.json
+readme.txt
+.babelrc
+composer.json
+/node_modules
+node_modules
+
